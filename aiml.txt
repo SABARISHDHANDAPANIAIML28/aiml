@@ -13,3 +13,16 @@ Tech Xplore
 Policy & Regulation
 
 AI regulation efforts are increasing globally, with legislative activity rising sharply across many countries and debates over how to balance innovation with safety.
+What’s Happening Right Now in AI
+
+Today’s top themes in AIML include:
+
+Market movements of AI companies
+
+Safety concerns & risk discourse from leading experts
+
+Talent and workforce expansion
+
+Advancements in large-AI model research
+
+Infrastructure and enterprise adoption momentum
