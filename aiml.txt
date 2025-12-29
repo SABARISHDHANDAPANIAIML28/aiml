@@ -1,0 +1,15 @@
+Broader AI & ML Trends (Recent)
+
+Beyond today’s headlines, here are key ongoing developments worth knowing:
+
+Industry & Tech Breakthroughs
+
+Large companies (like Google Cloud) keep rolling out new AI tools and improvements for builders and enterprises. 
+Google Cloud
+
+Research continues on making AI models more efficient and accurate, including innovations in memory usage and reasoning. 
+Tech Xplore
+
+Policy & Regulation
+
+AI regulation efforts are increasing globally, with legislative activity rising sharply across many countries and debates over how to balance innovation with safety.
